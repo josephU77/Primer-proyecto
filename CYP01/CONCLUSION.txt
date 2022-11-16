@@ -1,0 +1,2 @@
+320128260
+Yo en este trabajo aprendí que no es necesario pedir información directo del usuario o que sea introducido de forma manual, sino con ser alimentado de un solo archivo.dat es suficiente para que un programa devuelva información, que imagino que después otro programa utilizara para poder hacer útil esa información, siento que no fue tan difícil, pero de igual manera se me complicaron algunas cosas que pensé que eran necesarias pero realmente no lo eran, como el poner un ampersan después de un printf no es necesario, aunque yo deduje eso por el comando scanf_s.

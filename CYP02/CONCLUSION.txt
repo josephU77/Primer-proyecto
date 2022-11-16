@@ -1,0 +1,2 @@
+320128260
+Yo en esta asignación reforce los conocimientos vistos en clase, ya que aunque no usé la concatenación, sí pude dar un resultado positivo, o sea que termine sacando el resultado aunque no de la forma exacta como debería, eso o estoy mal en la asignación, pero una vez yo lo probe, es correcta las respuestas que da el programa-
